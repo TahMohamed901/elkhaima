@@ -6,7 +6,7 @@ It connects local artisans with their customers, providing a smooth, secure, and
 > ⚠️ Note: This is a closed project developed for a private company.
 
 ---
-![ElKHAÏMA Preview](front/public/elkhaima.png)
+![ElKHAÏMA Preview](public/elkhaima.png)
 ---
 
 ## 🔹 Features
